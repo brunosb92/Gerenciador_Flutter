@@ -1,0 +1,29 @@
+name: uniube_gerenciador_de_tarefas
+description: Gerencie seu tempo com inteligência, organizando suas tarefas diárias.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Pacote do Calendário.
+  table_calendar: ^3.1.2
+  # Formatação de datas.
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  # Declaração de ativos.
+  assets:
+    - assets/images/fundo.png
+    - assets/images/logo.png
