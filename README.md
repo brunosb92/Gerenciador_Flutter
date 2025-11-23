@@ -2,6 +2,13 @@
 
 Projeto dedicado a organização de tarefas de acordo com a data selecionada, podendo criar uma lista de tarefas pendentes, e de acordo que for realizando-as durante o dia correspondente, você consiga marcá-las como concluidas.
 
+## Telas do projeto
+
+![tela_login_casdastro](https://github.com/user-attachments/assets/d9e50fea-2fd9-4ede-8ffd-d7e17d382c4a)
+![tela_calendario](https://github.com/user-attachments/assets/904c4cb5-707b-47d5-81fa-a6b0090166ad)
+![tela_listaTarefas_adicaoTarefas](https://github.com/user-attachments/assets/19c96afc-4f15-45c5-b7c3-3ca32dffbf99)
+
+
 ## Getting Started
 
 Para rodar o projeto, é necessário instalar o flutter.
